@@ -13,7 +13,7 @@ I don't have my keyboard yet, but as soon as I do, I will update this with photo
 ### How To
 1. Download the .ai file from this repository.
 2. Modify it to fit your needs.
-3. Go to your WASD and create a keycap set or custom keyboard based on the .ai file. Use WASD Keyboard as an example, just go to [this page](http://www.wasdkeyboards.com/index.php/products/keycap-set/104-key-cherry-mx-keycap-set.html) and upload your .ai file.
+3. Go to your WASD and create a keycap set or custom keyboard based on the .ai file. Use WASD Keyboard as an example, just go to [this page](http://www.wasdkeyboards.com/index.php/wasd-v2-104-key-custom-mechanical-keyboard.html) and upload your .ai file.
 4. You need to map the keys to the labeled functions. Use [Karabiner](https://pqrs.org/osx/karabiner/) for that.
 5. I will upload my configuration file once I get my keyboard and map all the keys.
 
