@@ -6,10 +6,9 @@ Based on https://github.com/ychw/CustomMacKeycaps - I made several refinements t
 When I placed my order for my WASD Keyboard, I was told by the graphics guy things didn't line up, I believe they've updated their template since ychw did his. So this file is based on the current (as of Feb 2015) template.
 
 Feel free to fork it, change it, improve it, or just use it to order your own custom WASD keyboard for your Mac.
-
 I don't have my keyboard yet, but as soon as I do, I will update this with photos.
 
-## How To
+### How To
 1. Download the .ai file from this repository.
 2. Modify it to fit your needs.
 3. Go to your WASD and create a keycap set or custom keyboard based on the .ai file. Use WASD Keyboard as an example, just go to [this page](http://www.wasdkeyboards.com/index.php/products/keycap-set/104-key-cherry-mx-keycap-set.html) and upload your .ai file.
