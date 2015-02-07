@@ -15,5 +15,6 @@ Feel free to fork it, change it, improve it, or just use it to order your own cu
 4. You need to map the keys to the labeled functions. Use [Karabiner](https://pqrs.org/osx/karabiner/) for that.
 5. I will upload my configuration file once I get my keyboard and map all the keys.
 
-![Png of artwork]https://raw.githubusercontent.com/jasonbraun/WASD-Mac-Layout/master/WASD-Mac-Layout.png)
+* Layout file
+![layout](https://raw.githubusercontent.com/jasonbraun/WASD-Mac-Layout/master/WASD-Mac-Layout.png)
 This work is licensed under [**Creative Commons Attribution-NonCommercial 4.0 International License**](https://creativecommons.org/licenses/by-nc/4.0/). Basically you can do whatever to it as long as not commercial use.
