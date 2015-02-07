@@ -1,6 +1,6 @@
 # WASD-Mac-Layout
 ## This is an updated WASD custom keyboard layout for Mac computers.
-## Based on https://github.com/ychw/CustomMacKeycaps
+### Based on https://github.com/ychw/CustomMacKeycaps
 
 I made several edits to improve (in my opinion) the layout, centering, line thickness, sizing of icons to my liking.
 
